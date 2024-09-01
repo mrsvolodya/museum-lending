@@ -31,7 +31,7 @@ The design mochups for the project can be viewed here: [Figma Mockup](<https://w
 
 To run this project locally on your machine, follow these steps:
 
-1. git clone https://github.com/mrsvolodya/museum-lending
+1. git clone https://github.com/mrsvolodya/museum-lending.git
 2. cd museum-lending
 3. npm install
 4. npm start
