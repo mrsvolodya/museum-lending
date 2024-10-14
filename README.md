@@ -16,6 +16,7 @@ This project is a museum website featuring a dynamic gallery and event section, 
 
 - **HTML**: For the structure and content of the website.
 - **Sass**: For advanced and modular styling.
+- **BEM**: Used for naming conventions to ensure modular and maintainable styles.
 - **JavaScript**: For creating a custom slider and other interactive features.
   Responsive Design: Ensures functionality across all devices, including tablets and smartphones.
 
